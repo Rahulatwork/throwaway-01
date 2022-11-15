@@ -4,7 +4,9 @@ here we are doing the assignmet of merg conflict
 
 so i am testing the merge here now
 
-do it Locally 
+did it remortly
+
+did it Locally 
 
 so i have commited it Remortly but it did not get updated on local 
 so when i do a pull i am getting this 
