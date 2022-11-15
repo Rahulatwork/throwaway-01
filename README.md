@@ -8,4 +8,4 @@ did it remortly
 
 did it Locally 
 
-i got option to sync and i clicked on sync and changes were updated 
+i got option to sync and i clicked on sync  changes were updated 
